@@ -1,0 +1,8 @@
+1) Make sure that battle.net closed
+2) Disable completely all your protection on the computer ( The defender can interfere with the spoofer work )
+==============
+IF YOU DID EVERYTHING BUT IT DIDN'T WORK FOR YOU
+If the protection was turned off, the battle.net was closed and the spoofer did not work, try installing these programs:
+
+Directx: https://www.microsoft.com/en-eng/Download/confirmation.aspx?id=35
+Microsoft Visual C++: https://www.microsoft.com/en-english/download/details.aspx?id=48145
